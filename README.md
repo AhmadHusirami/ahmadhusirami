@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F736&random=false&width=435&lines=Programming+is+Art" alt="Typing SVG" /></a>
+
 
 <img align="center" alt="Coding" width="100%" height="415" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
