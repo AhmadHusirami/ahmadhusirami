@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="410" style="border-radius: 5px;"
+<img align="center" alt="Coding" width="100%" height="415" style="border-radius: 5px;"
     src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 <h1 align="center">Hi 👋, I'm Ahmad Husirami</h1>
@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=22&pause=300&color=964B00&random=false&width=435&lines=Programing+is+Art" alt="Typing SVG" /></a>
 
 <div style="border-bottom-style: solid; border-color: gray; width: 60rem; translate: 260px;">
-</div>
+</div><br><br>
 
 <h3 align="left">A Web and Mobile App Developer.</h3>
 <img align="right" alt="Coding" width="400"
@@ -40,21 +40,42 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-            alt="arduino" width="40" height="40" /> </a> <a
-        href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a
-        href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a
+<p align="left"> 
+    <a
+        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a>
+
+            <a
         href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev"
+            alt="css3" width="40" height="40" /> </a>
+
+            <a
+        href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            alt="java" width="40" height="40" /> </a>
+
+            <a
+        href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a>
+
+            <a
+        href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a>
+
+            
+            <a href="https://www.arduino.cc/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+            alt="arduino" width="40" height="40" /> </a>  <a
+        href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a>  <a href="https://dart.dev"
         target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
             alt="dart" width="40" height="40" /> </a> <a
@@ -66,13 +87,7 @@
             alt="flutter" width="40" height="40" /> </a> <a
         href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a
-        href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java" width="40" height="40" /> </a> <a
+            alt="git" width="40" height="40" /> </a>   <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -95,10 +110,7 @@
         href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a
-        href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a
+            alt="photoshop" width="40" height="40" /> </a>  <a
         href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
             alt="sass" width="40" height="40" /> </a> <a
