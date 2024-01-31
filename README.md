@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=22&pause=300&color=964B00&random=false&width=435&lines=Programing+is+Art" alt="Typing SVG" /></a>
 
 <div style="border-bottom-style: solid; border-color: gray; width: 60rem; translate: 260px;">
-</div><br><br>
+</div><br>
 
 <h3 align="left">A Web and Mobile App Developer.</h3>
 <img align="right" alt="Coding" width="400"
