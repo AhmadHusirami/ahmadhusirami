@@ -1,11 +1,12 @@
-
+<img align="center" alt="Coding" width="100%" height="415" style="border-radius: 5px;"
+    src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 <h1 align="center">Hi 👋, I'm Ahmad Husirami</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=22&pause=300&color=964B00&random=false&width=435&lines=Programing+is+Art" alt="Typing SVG" /></a>
 
 <div style="border-bottom-style: solid; border-color: gray; width: 60rem; translate: 260px;">
-</div><br>
+</div>
 
 <h3 align="left">A Web and Mobile App Developer.</h3>
 <img align="right" alt="Coding" width="400"
