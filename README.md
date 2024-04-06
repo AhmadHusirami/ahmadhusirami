@@ -104,7 +104,6 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
             alt="tailwind" width="40" height="40" /> </a> </p>
 
-            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadhusirami&show_icons=true&locale=en&layout=compact"
