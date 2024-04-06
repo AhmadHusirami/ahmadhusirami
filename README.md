@@ -38,8 +38,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="New Image" width="40" height="40" />
-
 <p align="left"> <a
         href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
