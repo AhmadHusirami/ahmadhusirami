@@ -141,8 +141,8 @@
 ### 📊 Top Languages
 
 <p align="center">
-  <img
-  src="https://streak-stats.demolab.com?user=ahmadhusirami"
-  alt="GitHub Streak"
+ <img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ahmadhusirami&layout=compact"
+  alt="Top Languages"
 />
 </p>
