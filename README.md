@@ -134,15 +134,40 @@
 
 ---
 
+<!-- ================= TECH STACK OVERVIEW ================= -->
+### 🧠 Tech Stack Overview
+
+<p align="left">
+  <strong>Languages:</strong><br />
+  Java · JavaScript · PHP · C++ · Dart
+</p>
+
+<p align="left">
+  <strong>Frontend:</strong><br />
+  HTML5 · CSS3 · React · Next.js · Bootstrap · Tailwind CSS · Sass
+</p>
+
+<p align="left">
+  <strong>Backend:</strong><br />
+  Node.js · Express · Laravel
+</p>
+
+<p align="left">
+  <strong>Mobile:</strong><br />
+  Flutter · React Native
+</p>
+
+<p align="left">
+  <strong>Databases:</strong><br />
+  MySQL · MongoDB
+</p>
+
+<p align="left">
+  <strong>Tools:</strong><br />
+  Git · Linux · Docker · Arduino · Photoshop
+</p>
+
+---
+
 <!-- ================= DIVIDER ================= -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<!-- ================= STATS ================= -->
-### 📊 Top Languages
-
-<p align="center">
- <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ahmadhusirami&layout=compact"
-  alt="Top Languages"
-/>
-</p>
