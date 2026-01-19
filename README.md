@@ -3,37 +3,27 @@
 
 <br/>
 
-<h2 align="center">✨ About Me</h2>
+---
 
-<p align="center">
-🚀 <b>I’m currently working on</b><br/>
+## ✨ About Me
+
+🚀 **I’m currently working on**  
 Building a scalable HRM / Task Management system with advanced workflows, role-based access, and modern UI/UX.
-</p>
 
-<p align="center">
-🤝 <b>I’m looking to collaborate on</b><br/>
+🤝 **I’m looking to collaborate on**  
 Full-stack web applications, enterprise systems, and AI-powered productivity tools.
-</p>
 
-<p align="center">
-🧩 <b>I’m looking for help with</b><br/>
+🧩 **I’m looking for help with**  
 System architecture optimization, performance tuning, and large-scale application best practices.
-</p>
 
-<p align="center">
-📚 <b>I’m currently learning</b><br/>
+📚 **I’m currently learning**  
 Advanced .NET, system design patterns, cloud integrations, and AI-assisted development.
-</p>
 
-<p align="center">
-💬 <b>Ask me about</b><br/>
+💬 **Ask me about**  
 Full-stack development, HRM systems, task workflows, UI/UX design, and database modeling.
-</p>
 
-<p align="center">
-⚡ <b>Fun fact</b><br/>
+⚡ **Fun fact**  
 I enjoy turning complex business requirements into clean, user-friendly systems.
-</p>
 
 ---
 
