@@ -1,84 +1,59 @@
-<h1 align="center">👋 Hi, I'm Ahmad Husirami</h1>
-<h3 align="center">Full-Stack Developer | System Builder | Problem Solver</h3>
+<h1 align="center">Ahmad Husirami</h1>
 
-<br/>
-
----
-
-## ✨ About Me
-
-🚀 **I’m currently working on**  
-Building a scalable HRM / Task Management system with advanced workflows, role-based access, and modern UI/UX.
-
-🤝 **I’m looking to collaborate on**  
-Full-stack web applications, enterprise systems, and AI-powered productivity tools.
-
-🧩 **I’m looking for help with**  
-System architecture optimization, performance tuning, and large-scale application best practices.
-
-📚 **I’m currently learning**  
-Advanced .NET, system design patterns, cloud integrations, and AI-assisted development.
-
-💬 **Ask me about**  
-Full-stack development, HRM systems, task workflows, UI/UX design, and database modeling.
-
-⚡ **Fun fact**  
-I enjoy turning complex business requirements into clean, user-friendly systems.
-
----
-
-<h2 align="center">🌐 Socials</h2>
+<p align="center">Software Engineer &middot; Full-stack &middot; Saida, Lebanon</p>
 
 <p align="center">
-<a href="https://facebook.com/ahmadhusirami">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/ahmadhusirami">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/ahmad-husirami-ab438b272">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ahmadhusirami@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+  <a href="https://ahmad-husirami.vercel.app/">Portfolio</a> &middot;
+  <a href="https://linkedin.com/in/ahmad-husirami-ab438b272">LinkedIn</a> &middot;
+  <a href="mailto:ahmadhusirami@gmail.com">Email</a>
 </p>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+I build web, mobile and desktop products from idea to production — CRM and ERP systems,
+task management, delivery apps, AI-powered platforms and fast proofs of concept.
+
+Right now I work at **Cerebrum L.L.C.** on a real-time media intelligence platform: a set of
+event-driven .NET services running on Azure, with a React front end on top of them.
+
+## Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Lockeva** | Desktop vault that locks files and folders behind AES-256-GCM, with signed auto-updates ([releases](https://github.com/AhmadHusirami/lockeva-releases)) | Rust, Tauri, React, TypeScript |
+| **NexaCore CRM** | Desktop CRM with an embedded PostgreSQL database and a signed update pipeline | Rust, Tauri, SeaORM, PostgreSQL |
+| **Leb News Monitor** | Real-time multi-source news monitor with AI summaries — no database, nothing stored | Next.js, TypeScript, Groq API |
+| **Social Media Downloader** | Containerised downloader app shipped as a single published image | Next.js, TypeScript, shadcn/ui, Docker |
+| **Expense Tracker** | Cross-platform spending tracker built on the MVC pattern | Flutter, Dart |
+| **RFID Scanner** | Android handheld tag scanner over the UHF SDK for Impinj R2000 readers | Android, UHF SDK |
+| **Portfolio** | [ahmad-husirami.vercel.app](https://ahmad-husirami.vercel.app/) | Next.js, TypeScript, Vercel |
+
+## Stack
+
+**Languages** — C#, TypeScript, Rust, PHP, Dart, SQL
+
+**Backend** — .NET 10, ASP.NET Core, Entity Framework Core, Laravel, SeaORM
+
+**Frontend** — React 19, Next.js, Fluent UI, TanStack Query, Zustand, Tailwind CSS, shadcn/ui
+
+**Mobile & desktop** — Flutter, Tauri
+
+**Data** — PostgreSQL, SQL Server, MySQL
+
+**Cloud & DevOps** — Azure (Service Bus, Blob Storage, Container Apps, Container Registry),
+Terraform, Docker, Azure DevOps Pipelines, GitHub Actions
+
+## How I work
+
+- Event-driven backends, with idempotency and retry behaviour designed in rather than bolted on.
+- Clean architecture in .NET: domain, application, infrastructure and persistence kept apart.
+- Infrastructure as code first, so every environment is reproducible from the repository.
+- Shared components over duplication — the frame gets written once, the specifics stay local.
+
+## Stats
 
 <p align="center">
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadHusirami&show_icons=true&include_all_commits=true&count_private=true" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AhmadHusirami" />
-</p>
-
----
-
-<h3 align="center">✍️ Dev Quote</h3>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHusirami&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AhmadHusirami" alt="GitHub streak" />
 </p>
