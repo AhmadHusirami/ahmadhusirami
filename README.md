@@ -1,6 +1,6 @@
 <h1 align="center">Ahmad Husirami</h1>
 
-<p align="center">Software Engineer &middot; Full-stack &middot; Saida, Lebanon</p>
+<p align="center">Software Engineer &middot; Saida, Lebanon</p>
 
 <p align="center">
   <a href="https://ahmad-husirami.vercel.app/">Portfolio</a> &middot;
@@ -15,18 +15,6 @@ task management, delivery apps, AI-powered platforms and fast proofs of concept.
 
 Right now I work at **Cerebrum L.L.C.** on a real-time media intelligence platform: a set of
 event-driven .NET services running on Azure, with a React front end on top of them.
-
-## Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **Lockeva** | Desktop vault that locks files and folders behind AES-256-GCM, with signed auto-updates ([releases](https://github.com/AhmadHusirami/lockeva-releases)) | Rust, Tauri, React, TypeScript |
-| **NexaCore CRM** | Desktop CRM with an embedded PostgreSQL database and a signed update pipeline | Rust, Tauri, SeaORM, PostgreSQL |
-| **Leb News Monitor** | Real-time multi-source news monitor with AI summaries — no database, nothing stored | Next.js, TypeScript, Groq API |
-| **Social Media Downloader** | Containerised downloader app shipped as a single published image | Next.js, TypeScript, shadcn/ui, Docker |
-| **Expense Tracker** | Cross-platform spending tracker built on the MVC pattern | Flutter, Dart |
-| **RFID Scanner** | Android handheld tag scanner over the UHF SDK for Impinj R2000 readers | Android, UHF SDK |
-| **Portfolio** | [ahmad-husirami.vercel.app](https://ahmad-husirami.vercel.app/) | Next.js, TypeScript, Vercel |
 
 ## Stack
 
@@ -53,7 +41,7 @@ Terraform, Docker, Azure DevOps Pipelines, GitHub Actions
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHusirami&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadHusirami&theme=default" alt="GitHub profile summary" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AhmadHusirami" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=AhmadHusirami" alt="GitHub streak" />
 </p>
