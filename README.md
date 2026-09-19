@@ -10,19 +10,19 @@
 
 ---
 
-I build web, mobile and desktop products from idea to production — CRM and ERP systems,
-task management, delivery apps, AI-powered platforms and fast proofs of concept.
+I design and build software end to end — backend services, web and mobile clients, and the
+infrastructure that runs them. Most of my work is on systems that run continuously and have to
+stay correct under load.
 
-Right now I work at **Cerebrum L.L.C.** on a real-time media intelligence platform: a set of
-event-driven .NET services running on Azure, with a React front end on top of them.
+I currently build production systems at **Cerebrum L.L.C.**
 
 ## Stack
 
 **Languages** — C#, TypeScript, Rust, PHP, Dart, SQL
 
-**Backend** — .NET 10, ASP.NET Core, Entity Framework Core, Laravel, SeaORM
+**Backend** — .NET, ASP.NET Core, Entity Framework Core, Laravel, SeaORM
 
-**Frontend** — React 19, Next.js, Fluent UI, TanStack Query, Zustand, Tailwind CSS, shadcn/ui
+**Frontend** — React, Next.js, Fluent UI, TanStack Query, Zustand, Tailwind CSS, shadcn/ui
 
 **Mobile & desktop** — Flutter, Tauri
 
