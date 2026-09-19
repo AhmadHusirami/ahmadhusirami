@@ -14,7 +14,8 @@ I design and build software end to end — backend services, web and mobile clie
 infrastructure that runs them. Most of my work is on systems that run continuously and have to
 stay correct under load.
 
-I currently build production systems at **Cerebrum L.L.C.**
+At **Cerebrum L.L.C.** that work reaches production and keeps running there — through
+releases, migrations and everything that arrives long after the first version went out.
 
 ## Stack
 
