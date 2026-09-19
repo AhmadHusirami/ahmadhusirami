@@ -41,7 +41,6 @@ Terraform, Docker, Azure DevOps Pipelines, GitHub Actions
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AhmadHusirami&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=AhmadHusirami" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=AhmadHusirami&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=AhmadHusirami" alt="GitHub streak" />
 </p>
